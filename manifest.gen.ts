@@ -7,12 +7,12 @@ import * as $$$$$$$$$$$0 from "./apps/site.ts";
 
 const manifest = {
   "sections": {
-    "deco-sites/links/sections/Links.tsx": $$$$$$0,
+    "deco-sites/hozzywozzy/sections/Links.tsx": $$$$$$0,
   },
   "apps": {
-    "deco-sites/links/apps/site.ts": $$$$$$$$$$$0,
+    "deco-sites/hozzywozzy/apps/site.ts": $$$$$$$$$$$0,
   },
-  "name": "deco-sites/links",
+  "name": "deco-sites/hozzywozzy",
   "baseUrl": import.meta.url,
 };
 
